@@ -1,0 +1,3 @@
+/Users/a1106632/Documents/Max 8/Packages/max-sdk-main/source/audio/ssm2044~/build/CMakeFiles/ssm2044_tilde.dir
+/Users/a1106632/Documents/Max 8/Packages/max-sdk-main/source/audio/ssm2044~/build/CMakeFiles/edit_cache.dir
+/Users/a1106632/Documents/Max 8/Packages/max-sdk-main/source/audio/ssm2044~/build/CMakeFiles/rebuild_cache.dir
