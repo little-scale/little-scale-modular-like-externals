@@ -1,3 +1,0 @@
-/Users/a1106632/Documents/Max 8/Packages/max-sdk-main/source/audio/slewenv~/build/CMakeFiles/slewenv_tilde.dir
-/Users/a1106632/Documents/Max 8/Packages/max-sdk-main/source/audio/slewenv~/build/CMakeFiles/edit_cache.dir
-/Users/a1106632/Documents/Max 8/Packages/max-sdk-main/source/audio/slewenv~/build/CMakeFiles/rebuild_cache.dir
